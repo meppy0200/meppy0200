@@ -1,4 +1,4 @@
-# Merhaba, Ben Mustafa Efe Korucu 👋
+# Merhaba, Ben Mustafa 👋
 
 
 Ben Mustafa ve yapay zeka mühendisliği alanında çalışıyorum. Projelerim, oyun geliştirme, yapay zeka, Discord botları ve web geliştirme üzerine odaklanıyor. 🎮🤖💻
@@ -18,7 +18,7 @@ Ben Mustafa ve yapay zeka mühendisliği alanında çalışıyorum. Projelerim, 
 
 ### 🌐 Web Projeleri
 - **[Sibylbot.com](https://sibylbot.com)**: Psycho-Pass temalı Discord bot kontrol paneli. [Üzerine çalışmayı bıraktım. Domain kapalı.]
-- **[Meppy.dev](https://meppy.dev)**: Kendi şahsi portfolyo sitem. [Akti değil.]
+- **[Meppy.dev](https://meppy.me)**: Kendi şahsi portfolyo sitem.
 
 ## Yeteneklerim
 

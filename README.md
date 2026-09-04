@@ -18,7 +18,7 @@ Ben Mustafa ve yapay zeka mühendisliği alanında çalışıyorum. Projelerim, 
 
 ### 🌐 Web Projeleri
 - **[Sibylbot.com](https://sibylbot.com)**: Psycho-Pass temalı Discord bot kontrol paneli. [Üzerine çalışmayı bıraktım. Domain kapalı.]
-- **[Meppy.dev](https://meppy.me)**: Kendi şahsi portfolyo sitem.
+- **[Meppy.me](https://meppy.me)**: Kendi şahsi portfolyo sitem.
 
 ## Yeteneklerim
 

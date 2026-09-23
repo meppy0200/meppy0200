@@ -1,35 +1,32 @@
-# Merhaba, Ben Mustafa 👋
 
+# Mustafa
 
-Ben Mustafa ve yapay zeka mühendisliği alanında çalışıyorum. Projelerim, oyun geliştirme, yapay zeka, Discord botları ve web geliştirme üzerine odaklanıyor. 🎮🤖💻
+Artificial Intelligence Engineering student at OSTIM Technical University. Interested in artificial intelligence, game development, backend systems, and web development.
 
-## Hakkımda
+## About Me
 
-- 🎓 Ostim Teknik Üniversitesi'nde Yapay Zeka Mühendisliği okuyorum.
-- 💼 Çeşitli yapay zeka ve web geliştirme projeleri üzerinde çalışıyorum.
-- 🛠️ Yeteneklerim: **JavaScript**, **React**, **Node.js**, **Tailwind CSS**, **PostgreSQL**, **Python**, **Unity**, **C#**
-- 🌱 Şu anda yeni teknolojiler ve **yapay zeka modelleri** üzerine çalışıyorum.
-- 📫 Bana ulaşın: [meppy@duck.com](mailto:meppy@duck.com)
+- Studying Artificial Intelligence Engineering at OSTIM Technical University.
+- Working on AI, web development, and various software projects.
+- Currently exploring large language models and emerging AI technologies.
 
-## Projelerim
+## Tech Stack
 
-### 🤖 Discord Botları
-- **[Psycho-Pass Discord Bot](https://sibylbot.com)**: Psycho-Pass anime temalı Discord botu. [Üzerine çalışmayı bıraktım. Domain kapalı.]
+**Languages:** Python, JavaScript, C#
 
-### 🌐 Web Projeleri
-- **[Sibylbot.com](https://sibylbot.com)**: Psycho-Pass temalı Discord bot kontrol paneli. [Üzerine çalışmayı bıraktım. Domain kapalı.]
-- **[Meppy.me](https://meppy.me)**: Kendi şahsi portfolyo sitem.
+**Frontend:** React, Tailwind CSS
 
-## Yeteneklerim
+**Backend:** Node.js, Express.js
 
-- **Programlama Dilleri:** JavaScript, Python
-- **Web Teknolojileri:** Express.js, Tailwind CSS
-- **Veritabanları:** JSON tabanlı veritabanları
+**Databases:** PostgreSQL
 
-## İstatistiklerim 📊
+**Game Development:** Unity
 
-## İletişim
+## Projects
 
-- 📧 Email: [meppy@duck.com](mailto:meppy@duck.com)
+- **[Psycho-Pass Discord Bot](https://github.com/meppy0200)** — A Discord bot inspired by the Psycho-Pass anime. Discontinued.
+- **[Meppy.me](https://meppy.me)** — My personal portfolio website.
 
-Teşekkürler!
+## Contact
+
+- **Email:** [meppy@duck.com](mailto:meppy@duck.com)
+- **Website:** [meppy.me](https://meppy.me)
